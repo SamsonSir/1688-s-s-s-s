@@ -5,7 +5,7 @@
 File ：extract_data.py
 @IDE ：PyCharm
 @email：2934218525@qq.com
-爬取商品详情页 链接在links.txt中
+商品详情页 链接在links.txt中
 
 """
 import time
